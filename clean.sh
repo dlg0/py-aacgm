@@ -1,3 +1,3 @@
 rm -rf build/
 rm aacgm.so
-rm aacgm.c
+rm c-aacgm.c
